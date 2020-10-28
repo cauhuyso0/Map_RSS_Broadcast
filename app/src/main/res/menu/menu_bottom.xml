@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item
+       android:title="Khóa Học"
+       android:id="@+id/khoaHoc"/>
+    <item
+        android:title="Đã Đăng Ký"
+        android:id="@+id/daDK"/>
+    <item
+        android:title="Lịch Thi"
+        android:id="@+id/lichHoc"/>
+</menu>
